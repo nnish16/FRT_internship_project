@@ -31,7 +31,9 @@ Cryptovest aims to provide people basic to comprehensive knowledge in this area,
 
 Primary Azure Technology:
 
-Azure Bot Service
-QnA Maker
-WebApps
+1.Azure Bot Service
+
+2.QnA Maker
+
+3.WebApps
 
