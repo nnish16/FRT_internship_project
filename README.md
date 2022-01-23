@@ -2,6 +2,9 @@
 https://cryptovest.azurewebsites.net
 
 
+Project Synopsis 
+
+
 Industry Name:
 
 Fin Tech
