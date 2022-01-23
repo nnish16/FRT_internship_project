@@ -3,11 +3,13 @@ https://cryptovest.azurewebsites.net
 
 
 Industry Name:
+
 Fin Tech
 
 
 Project Title:
-Cryptovest (A crypto and blockchain info provider)
+
+Cryptovest (A crypto and blockchain info provider with a bot)
 
 
 Problem Statement/Opportunity:
