@@ -2,7 +2,7 @@
 https://cryptovest.azurewebsites.net
 
 
-Descriptiones:
+Description:
 
 This a project website made for the Future Ready Internship offered by Microsoft
 
