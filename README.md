@@ -6,12 +6,18 @@ Description:
 
 This a project website made for the Future Ready Talent Internship offered by Microsoft.
 
+I present to you Cryptovest - The place where future crypto billionaires are made!
+A one stop knowledge hub for crypto investers enthusiasts critic and more with a cute and smart bot krypto
+
+![image](https://user-images.githubusercontent.com/66774185/150735773-a9a3e67d-f059-4d4d-84ff-9c4f41962735.png)
+
+
 Meet Krypto the highlight of this project. He is made by using various Azure services like web apps,QnA maker and bot services.
 He has been trained on a lot of data to answer your crypto and blockchain related queries. 
 
 ![image](https://user-images.githubusercontent.com/66774185/150735306-cc650c80-0124-48bd-b493-2f8d340a6c6f.png)
 
-the site is still in development phase so there might be few issues here and there sorry for inconvinence.
+This site is still in development phase so there might be few issues here and there sorry for inconvinence.
 
 
 Project Synopsis:
