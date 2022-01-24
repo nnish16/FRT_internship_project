@@ -4,9 +4,11 @@ https://cryptovest.azurewebsites.net
 
 Description:
 
-This a project website made for the Future Ready Internship offered by Microsoft
+This a project website made for the Future Ready Talent Internship offered by Microsoft.
 
-Project Synopsis: 
+Project Synopsis:
+![image](https://user-images.githubusercontent.com/66774185/150735306-cc650c80-0124-48bd-b493-2f8d340a6c6f.png)
+
 
 
 Industry Name:
